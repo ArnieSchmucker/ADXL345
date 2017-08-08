@@ -1,0 +1,2 @@
+# ADXL345
+ADXL345 with Servo
